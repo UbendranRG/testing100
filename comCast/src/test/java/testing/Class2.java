@@ -11,6 +11,8 @@ System.out.println("hello");
 System.out.println("haiii");
 System.out.println("hhh");
 System.out.println("git practice");
+System.out.println("hhh");
+System.out.println("git practice");
 System.out.println("git practice2");
 System.out.println("hello");
 
